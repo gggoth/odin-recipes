@@ -1,2 +1,2 @@
 # odin-recipes
-an html exercise creating a recipes' website
+An html exercise creating a recipes' website
